@@ -1,4 +1,4 @@
-package MapDBBrowser;
+package me.nax.mapdbbrowser;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

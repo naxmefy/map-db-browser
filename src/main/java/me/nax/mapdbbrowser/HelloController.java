@@ -1,4 +1,4 @@
-package MapDBBrowser;
+package me.nax.mapdbbrowser;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
