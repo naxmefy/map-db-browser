@@ -8,3 +8,6 @@ atlassian-ide-plugin.xml
 # OS
 .DS_Store
 Thumbs.db
+
+# cucumber
+cucumber-html-reports
