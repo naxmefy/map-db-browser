@@ -1,0 +1,10 @@
+# IntelliJ
+.idea
+atlassian-ide-plugin.xml
+
+# Maven
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
